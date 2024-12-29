@@ -1,2 +1,3 @@
 # React
-Learning React JS
+Learning React JS 
+Shubham Jadhav
