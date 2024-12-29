@@ -1,23 +1,3 @@
-// function customRender(reactElement, container){
-//     const DOMelement = document.createElement(reactElement.type);
-//     DOMelement.innerHTML = reactElement.content;
-//     DOMelement.setAttribute('href', reactElement.props.href)
-//     DOMelement.setAttribute('target', reactElement.props.target)
-    
-//     container.appendChild(DOMelement);
-// };
-
-// const reactElement = {
-//     type : 'a',
-//     props:{
-//         href : 'https://www.google.com',
-//         target : '_blank'
-//     },
-//     content: 'Google Search'
-// };
-// const container = document.getElementById('root');
-// customRender(reactElement, container);
-
 
 function customRender(reactElement, container){
     
